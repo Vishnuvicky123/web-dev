@@ -63,11 +63,20 @@ body{
 }
 .end{
     text-align: center;
-    margin: 0;
-    border: 2px solid black;
-    background-color: aquamarine;
-    padding: 5px;
+    padding: 20vh;
 }
 .h1{
     text-align: center;
+}
+.image{
+    height: 20px;
+}
+.all-items{
+    padding-top: 20vh;
+}
+.h2{
+    text-align: center;
+    margin: 0;
+    border: 2px solid black;
+    background-color: aquamarine;
 }
